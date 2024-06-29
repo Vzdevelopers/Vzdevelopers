@@ -1,7 +1,7 @@
 ##
 
 > [!NOTE]
-> <h1>Developer beginner 👋</h1>
+> <h1 style="font-size: 12px;" >Developer beginner 👋</h1>
 > <p>☕ Studying And Front end Developer</p>
 
 > [!CAUTION]
