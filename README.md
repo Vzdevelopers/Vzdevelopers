@@ -3,7 +3,7 @@
 > [!CAUTION]
 > ```
 > class About Basic extends Desenvolvedor {
- >  name = "Seu nome";
+ >  name = "kleber";
 >                Beginner = "Front end";
 >                                   Working = "search";
 
