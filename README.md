@@ -17,8 +17,8 @@
 > to become a Front End programmer  I'm constantly learning and discovering {new technologies}.
 > Today is June 29, 2024, and I am continuously updating my {GitHub }.
 
-
-``` [!WARNING]  
+> [!WARNING]  
+``` 
 > Let Skills = extends Desenvolvedor {
 > linguagens = ["Html , Css , Java Script"];
 > Programs = ["Figma , Sony vegas , after effects , Photoshop "];
