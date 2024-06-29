@@ -43,6 +43,13 @@ const About(description) {
     background-color: rgba(56, 139, 253, 0.15);
     border-radius: 6px;
     text-decoration: none;
+
+
+
+{
+    color: rgb(87, 178, 255);
+    background-color: rgba(2, 73, 170, 0.15);
+    text-decoration-color: initial
 }
 
 ```
