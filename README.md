@@ -2,8 +2,7 @@
 
 > [!NOTE]
 > <h2>Developer beginner 👋</h2>
-> <p>☕ Studying And Front end Developer</p>
-<p style="color: blue">The <code>style</code> attribute can override it, though.</p>
+> <p>☕ Studying And <code>Front End</code> Developer</p>
 
 > [!CAUTION]
 > ```
