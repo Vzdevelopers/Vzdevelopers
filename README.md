@@ -33,4 +33,18 @@ const About(description) {
 }
 ```
 
+```css
+.fwWnjz {
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 12px;
+    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: rgb(88, 166, 255);
+    background-color: rgba(56, 139, 253, 0.15);
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+```
+
 
