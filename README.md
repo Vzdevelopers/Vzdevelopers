@@ -14,8 +14,3 @@ My name is Kleber Lucas. I was born in Minas Gerais. I'm known as "vz" within Di
 ###
 
 
-<style>
-h1 {
-     background
-}
-</style>
