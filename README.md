@@ -1,5 +1,9 @@
 ##
 
+> [!NOTE]
+> <h1>Developer beginner 👋</h1>
+> <p>☕ Studying And Front end Developer</p>
+
 > [!CAUTION]
 > ```
 > class About Basic extends Desenvolvedor {
@@ -21,7 +25,6 @@
 > linguagens = ["Html , Css , Java Script"];
 > Programs = ["Figma , Sony vegas , after effects , Photoshop "];
 > frameworks = ["Tailwind Css"];
-
 
 ##
 
