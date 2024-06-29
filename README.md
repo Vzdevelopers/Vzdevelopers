@@ -14,19 +14,18 @@ My name is <strong>kleber lucas De Freitas </strong> years 29.2005 . I was born 
 ###
 
 ```js
-import Desenvolvedor from "SeuNick";
+let Desenvolvedor = [from , Kleber];
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  name = "Seu nome";
+  Beginner = "Front end";
+  Working = "search";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["Html , Css , Java Script"];
+  bibliotecas = ["Not and bl"];
+  frameworks = ["Tailwind Css"];
 }
 ```
 
