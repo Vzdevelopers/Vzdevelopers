@@ -1,8 +1,4 @@
 ##
-> [!NOTE]
-> <h2>Developer beginner 👋</h2>
-> <p>☕ Studying And <code>Front End</code> Developer</p>
-
 > [!CAUTION]
 > ```
 > class About Basic extends Desenvolvedor {
