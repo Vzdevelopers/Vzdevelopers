@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤠 Explorando novas tecnologias e desenvolvendo soluções de software .
-- 🎓 Estudando ```Stundying front end uni bfg```.
+- 🎓 Estudando ```Stundying front-end back-end unibf faculdade```.
 - 💼 Trabalhando como ```Freelancer - arts-Studio```.
 - 🌱 Aprendendo mais sobre ```java-script - typeScript```.
 - 💭 objetivos e progresso  ```Entender e Solucionar o proiblema da sua empresa de sofware ```.
