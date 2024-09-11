@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
 
-## Sobre mim
+## About me
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -10,9 +10,6 @@
 - 🌱 Aprendendo mais sobre ```java-script - typeScript```.
 - 💭 objetivos e progresso  ```Entender e Solucionar o proiblema da sua empresa de sofware ```.
 
-
-
-```Studying Front End```
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
