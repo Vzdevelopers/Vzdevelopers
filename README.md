@@ -2,6 +2,8 @@
 
 ## Sobre mim
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 - 🤠 Explorando novas tecnologias e desenvolvendo soluções de software .
 - 🎓 Estudando ```Stundying front-end back-end unibf faculdade```.
 - 💼 Trabalhando como ```Freelancer - arts-Studio```.
