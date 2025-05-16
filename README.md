@@ -2,11 +2,11 @@
 
 # Sobre mim
 
-- <img src="https://media.discordapp.net/attachments/1068277501530493008/1373028349756047380/monitor.png?ex=6828ebcc&is=68279a4c&hm=99c1946c2487e1199f33b136d56856c0f08c838272fe7e728dd70ff601f5d21c&=&format=webp&quality=lossless&width=110&height=110" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
-- <img src="" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Estudante de front-end e back-end na UNIBF.  
+- <img src="https://media.discordapp.net/attachments/1068277501530493008/1373030152250064968/monitor-duotone.png?ex=6828ed79&is=68279bf9&hm=2c73ffb1d316e39420a912dc71d4ab8f5c6032fbb7a1f4ed4a9f4bada9d0e5eb&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
+- <img src="https://media.discordapp.net/attachments/1068277501530493008/1373029980468154481/backpack-duotone.png?ex=6828ed51&is=68279bd1&hm=f5ad6ebf8c068a312c2236ec7920521a3493eec7b5eee9f977d38b561f5a161d&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Estudante de front-end e back-end na UNIBF.  
 - <img src="" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Freelancer em desenvolvimento e design na arts-Studio.  
-- <img src="" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Aprendendo JavaScript e TypeScript.  
-- <img src="" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Focado em resolver problemas com soluções criativas.
+- <img src="https://media.discordapp.net/attachments/1068277501530493008/1373029838318735453/brain-duotone.png?ex=6828ed2f&is=68279baf&hm=7bf1a10e85b4d7bc15a1e53d74f6797d104db1668174bfef2002e16a5f8e1863&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Aprendendo JavaScript e TypeScript.  
+- <img src="https://media.discordapp.net/attachments/1068277501530493008/1373029735730380991/warning-octagon-duotone.png?ex=6828ed16&is=68279b96&hm=b40ddc55463cc621298ff86f695026d8e9cb8ee86d2dcb811bcbf7055c1e425c&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Focado em resolver problemas com soluções criativas.
 
 ----
 
