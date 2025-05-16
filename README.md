@@ -8,7 +8,7 @@
 - 🎓 Estudando ```Stundying front-end back-end unibf faculdade```.
 - 💼 Trabalhando como ```Freelancer - arts-Studio```.
 - 🌱 Aprendendo mais sobre ```java-script - typeScript```.
-- 💭 objetivos e progresso  ```Entender e Solucionar o proiblema da sua empresa de sofware ```.
+- 💭 objetivos e progresso  ```Soluções de problemas ```.
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
