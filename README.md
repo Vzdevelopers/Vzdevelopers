@@ -2,11 +2,11 @@
 
 # Sobre mim
 
-- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/core/assets/icons/gear-six-bold.svg" width="16" /> Apaixonado por tecnologia e desenvolvimento de software.  
-- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/core/assets/icons/book-open-bold.svg" width="16" /> Estudante de front-end e back-end na UNIBF.  
-- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/core/assets/icons/briefcase-bold.svg" width="16" /> Freelancer em desenvolvimento e design na arts-Studio.  
-- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/core/assets/icons/plant-bold.svg" width="16" /> Aprendendo JavaScript e TypeScript.  
-- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/core/assets/icons/magnifying-glass-bold.svg" width="16" /> Focado em resolver problemas com soluções criativas.
+- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/phosphor-home/icons/gear-six-bold.svg" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
+- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/phosphor-home/icons/book-open-bold.svg" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Estudante de front-end e back-end na UNIBF.  
+- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/phosphor-home/icons/briefcase-bold.svg" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Freelancer em desenvolvimento e design na arts-Studio.  
+- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/phosphor-home/icons/plant-bold.svg" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Aprendendo JavaScript e TypeScript.  
+- <img src="https://cdn.jsdelivr.net/gh/phosphor-icons/phosphor-home/icons/magnifying-glass-bold.svg" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Focado em resolver problemas com soluções criativas.
 
 ---
 
