@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
 
-###    **ㅤㅤSOBRE MIM**
+###    **ㅤㅤ🦅SOBRE MIM**
 
 - <img src="https://media.discordapp.net/attachments/1068277501530493008/1373030152250064968/monitor-duotone.png?ex=6828ed79&is=68279bf9&hm=2c73ffb1d316e39420a912dc71d4ab8f5c6032fbb7a1f4ed4a9f4bada9d0e5eb&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
 - <img src="https://media.discordapp.net/attachments/1068277501530493008/1373029980468154481/backpack-duotone.png?ex=6828ed51&is=68279bd1&hm=f5ad6ebf8c068a312c2236ec7920521a3493eec7b5eee9f977d38b561f5a161d&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Estudante de front-end e back-end na UNIBF.  
