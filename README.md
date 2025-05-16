@@ -2,13 +2,11 @@
 
 # Sobre mim
 
-
-
-- 🤠 Apaixonado por tecnologia e desenvolvimento de software.
+- ⚙️ Apaixonado por tecnologia e desenvolvimento de software.
 - 🎓 Estudante de front-end e back-end na UNIBF.
 - 💼 Freelancer em desenvolvimento e design na arts-Studio.
 - 🌱 Aprendendo JavaScript e TypeScript.
-- 💭 Focado em resolver problemas com soluções criativas.
+- 💡 Focado em resolver problemas com soluções criativas.
 
 ---
 
