@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
-<img src="https://media.discordapp.net/attachments/1068277501530493008/1373033949802008727/computer-illustration.png?ex=6828f103&is=68279f83&hm=885999c246cd5cc9240634ae495d34e4cf2b33fe7e0118fa459e286922bc687a&=&format=webp&quality=lossless&width=483&height=359" alt="ilustração de um computador" min-width="600px" max-width="600px" width="600px" align="right">
+<img src="https://media.discordapp.net/attachments/1068277501530493008/1373033949802008727/computer-illustration.png?ex=6828f103&is=68279f83&hm=885999c246cd5cc9240634ae495d34e4cf2b33fe7e0118fa459e286922bc687a&=&format=webp&quality=lossless&width=483&height=359" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ###    🦅**ㅤSOBRE MIM**
 
 - <img src="https://media.discordapp.net/attachments/1068277501530493008/1373030152250064968/monitor-duotone.png?ex=6828ed79&is=68279bf9&hm=2c73ffb1d316e39420a912dc71d4ab8f5c6032fbb7a1f4ed4a9f4bada9d0e5eb&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
