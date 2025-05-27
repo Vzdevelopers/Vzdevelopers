@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
-<img src="https://media.discordapp.net/attachments/1068277501530493008/1373036090532954163/computer-illustratio111.png?ex=6828f301&is=6827a181&hm=ff5f40c5de57d26ea599147804b266b150d564019890d66440773e94adc12d07&=&format=webp&quality=lossless&width=605&height=449" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="https://drive.google.com/file/d/12F-sl_qtfv2D_MOdMtfkxd1L8qnRjilA/view?usp=drive_link" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 ### ABOUT ME
 
 - <img src="https://media.discordapp.net/attachments/1068277501530493008/1373030152250064968/monitor-duotone.png?ex=6828ed79&is=68279bf9&hm=2c73ffb1d316e39420a912dc71d4ab8f5c6032fbb7a1f4ed4a9f4bada9d0e5eb&=&format=webp&quality=lossless&width=69&height=69" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
