@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
-<img src="https://drive.google.com/file/d/12F-sl_qtfv2D_MOdMtfkxd1L8qnRjilA/view?usp=drive_link" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="https://i.ibb.co/HRs771Y/kindpng-513548.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 ### ABOUT ME
 
 - <img src="https://i.ibb.co/HRs771Y/kindpng-513548.png" width="18" style="filter: invert(50%) sepia(20%) saturate(500%) hue-rotate(160deg);" /> Apaixonado por tecnologia e desenvolvimento de software.  
